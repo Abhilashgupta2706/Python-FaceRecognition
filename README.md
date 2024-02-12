@@ -1,20 +1,21 @@
 # Python- FaceRecognition
 
-This repository contains my Python code for face recognition using face-recognition library. <br />
+This repository contains my Python code for face recognition using the face recognition library. <br />
 
 ### About this project
 
-Project tracks the user IN time and stores it in an Excel sheet and then wait for another 8 Hours (can be changed) before making another entry of that user.
+The project tracks the user IN time stores it in an Excel sheet and then waits for another 8 Hours (can be changed) before making another entry of that user.
 
 ### Setup & Installation
 
-Make sure you have the latest version of python installed.
+Make sure you have the latest version of Python installed.
 
 ```bash
 git clone https://github.com/Abhilashgupta2706/Python-FaceRecognition.git
 ```
 
-If face_recog_dlo_file is not present the run following command first:
+First, clone the face recognition repository from GitHub to avoid errors:
+
 ```bash
 git clone https://github.com/RvTechiNNovate/face_recog_dlib_file.git
 ```
@@ -27,6 +28,8 @@ pip install -r requirements.txt
 
 ```bash
 python3 main.py
+or 
+python3 <Absolute Path of file>
 ```
 
 ## About me
