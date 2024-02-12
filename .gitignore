@@ -4,4 +4,8 @@
 # Saved user CSV data
 user_records.csv
 
+# Ignore cloned repo for face recognition
+face_recog_dlib_file
+
 .idea
+
