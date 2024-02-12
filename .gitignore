@@ -1,0 +1,5 @@
+# Saved Images
+/known_faces/*.jpg
+
+# Saved user CSV data
+user_records.csv
