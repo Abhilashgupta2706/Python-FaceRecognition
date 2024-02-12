@@ -1,6 +1,6 @@
 # Python- FaceRecognition
 
-This repository contains my Python code for face recognition using the face recognition library. <br />
+This repository contains my Python code for face recognition using the face recognition library. Recommended version of Python is 3.8 <br />
 
 ### About this project
 
