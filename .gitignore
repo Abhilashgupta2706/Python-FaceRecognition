@@ -9,3 +9,5 @@ face_recog_dlib_file
 
 .idea
 
+Test.py
+*.pyc
